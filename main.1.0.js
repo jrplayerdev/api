@@ -1,6 +1,6 @@
 /**
  * jrPlayer 2026 copyright
- * Last update: 08/28/2026
+ * Last update: 08/30/2026
  * Dev e-mail: jrplayer@proton.me
  * Dev telegram: https://t.me/jrplayerdev
 **/
